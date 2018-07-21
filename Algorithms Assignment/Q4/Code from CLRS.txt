@@ -1,0 +1,2 @@
+Code for finding median in linear time is there in CLRS
+Chapter: Medians and order statistics
