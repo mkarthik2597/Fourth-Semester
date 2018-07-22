@@ -15,11 +15,11 @@ of a course project, many functionalities have been implemented.
 
 ### Project Developers
 
-* Name:Sagar Bharadwaj  
-RollNo:15co141
+* Name: Sagar Bharadwaj  
+RollNo: 15CO141
 
 * Name: Arvind Sai K  
-RollNo:
+RollNo: 15CO209
 
 * Name: Karthik M  
-RollNo:15co221
+RollNo: 15CO221
